@@ -9,7 +9,6 @@ package com.dmr.simulador.datos;
  * @author MiPc
  */
 public class Conexion {
-    public void hacerConsulta(){
-        
+    public void guardar(){
     }
 }
