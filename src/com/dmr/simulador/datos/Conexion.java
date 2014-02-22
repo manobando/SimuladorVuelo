@@ -17,4 +17,9 @@ public class Conexion {
         String conexion = "";
         return conexion;
     }
+    
+    public String finConexion(){
+        String con="";
+        return con;
+    }
 }
