@@ -9,7 +9,7 @@ package com.dmr.simulador.logicaNegocio.monitoreo.controles;
 /**
  *
  * @author jhon
- */
+ */ 
 public class asrk {
     
 }
