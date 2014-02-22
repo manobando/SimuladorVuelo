@@ -10,4 +10,6 @@ package com.dmr.simulador.logicaNegocio.monitoreo.controles;
  */
 public class Control {
     
+    //Metodos
+    
 }
