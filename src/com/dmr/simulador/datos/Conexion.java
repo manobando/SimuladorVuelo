@@ -12,4 +12,9 @@ public class Conexion {
     public void hacerConsulta(){
         
     }
+    
+    public String darConexion(){
+        String conexion = "";
+        return conexion;
+    }
 }
